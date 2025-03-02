@@ -1,5 +1,5 @@
-- 👋 Hello, I’m @patriciaregina24 and I'm a System Analysis and Development student.
-- 👀 I’m interested in Python, SQL, Data Science.
-- 🌱 I’m currently learning Data Science.
+- 👋 Hello, I’m @patriciaregina24. I'm a System Analysis and Development graduate and I'm currently doing a Bachelor's in Statistics.
+- 👀 I’m interested in Data Analysis, Data Science and Artifical Intelligence.
+- 🌱 I’m currently improving my Python and SQL skills.
 - 💞️ I’m looking for a job to master my abilities.
 - 📫 How to reach me: https://www.linkedin.com/in/patr%C3%ADcia-regina202/
