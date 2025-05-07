@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, meu nome é Patrícia! / Hi, my name is Patrícia!</h1>
+<h1 align="center">👋 Olá, meu nome é Patrícia! | Hi, my name is Patrícia!</h1>
 
 <h3 align="center">💙 Sou formada em Análise e Desenvolvimento de Sistemas e atualmente curso Estatística. | I have a degree in System Analysis and Development and I am currently studying Statistics </h3>
 
