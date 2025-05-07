@@ -1,13 +1,13 @@
-<h1 align="center">👋 Olá, meu nome é Patrícia!</h1>
+<h1 align="center">👋 Olá, meu nome é Patrícia! / Hi, my name is Patrícia!</h1>
 
-<h3 align="center">💙 Sou formada em Análise e Desenvolvimento de Sistemas e atualmente curso Estatística.</h3>
+<h3 align="center">💙 Sou formada em Análise e Desenvolvimento de Sistemas e atualmente curso Estatística. / I have a degree in System Analysis and Development and I am currently studying Statistics </h3>
 
 ---
 
-- 👀 Me interesso por **Análise de Dados**, **Automação** e **Inteligência Artificial**.  
-- 🌱 Atualmente estou aprimorando meus conhecimentos em **Python** e **SQL**.  
-- 💼 Busco uma oportunidade para aplicar e evoluir minhas habilidades.  
-- 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/patr%C3%ADcia-regina202/)
+- 👀 Me interesso por **Análise de Dados**, **Automação** e **Inteligência Artificial**. | I am very interested in **Data Analysis**, **Automation** and **Artificial Intelligence**.
+- 🌱 Atualmente estou aprimorando meus conhecimentos em **Python** e **SQL**. | I am currently improving my skills in **Python** and **SQL**.
+- 💼 Busco uma oportunidade para aplicar e evoluir minhas habilidades. | I am looking for an opportunity to apply and evolve my skills.
+- 📫 Você pode me encontrar no | You can find me on [LinkedIn](https://www.linkedin.com/in/patr%C3%ADcia-regina202/)
 
 ---
 
@@ -28,7 +28,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub:
+### 📊 Estatísticas do GitHub | GitHub Statistics:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patriciaregina24&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
