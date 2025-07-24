@@ -1,12 +1,11 @@
 <h1 align="center">👋 Olá, meu nome é Patrícia! | Hi, my name is Patrícia!</h1>
 
-<h3 align="center">💙 Sou formada em Análise e Desenvolvimento de Sistemas e atualmente curso Estatística. | I have a degree in System Analysis and Development and I am currently studying Statistics </h3>
+<h3 align="center"> Sou formada em Análise e Desenvolvimento de Sistemas e atualmente curso Estatística. | I have a degree in System Analysis and Development and I am currently studying Statistics </h3>
 
 ---
 
-- 👀 Me interesso por **Análise de Dados**, **Automação** e **Inteligência Artificial**. | I am very interested in **Data Analysis**, **Automation** and **Artificial Intelligence**.
+- 👀 Me interesso por **Análise de Dados** e **Inteligência Artificial**. | I am very interested in **Data Analysis** and **Artificial Intelligence**.
 - 🌱 Atualmente estou aprimorando meus conhecimentos em **Python** e **SQL**. | I am currently improving my skills in **Python** and **SQL**.
-- 💼 Busco uma oportunidade para aplicar e evoluir minhas habilidades. | I am looking for an opportunity to apply and evolve my skills.
 - 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/patr%C3%ADcia-regina202/)
 | You can find me on [LinkedIn](https://www.linkedin.com/in/patr%C3%ADcia-regina202/)
 
